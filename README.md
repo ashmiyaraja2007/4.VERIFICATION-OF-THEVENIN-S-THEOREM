@@ -1,5 +1,6 @@
 # 4.VERIFICATION-OF-THEVENIN-S-THEOREM
-
+**ASHMIYA.R**
+**25001337**
 **AIM:**
 
 To verify Thevenin’s theorem practically and theoretically for the given DC circuit.
@@ -33,6 +34,8 @@ Thevenin’s Resistance, RTh:
 It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
 **CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM**
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/263663c1-b4f9-494e-a0c4-8046194cc272" />
+
 
 To measure IL
 
@@ -49,6 +52,11 @@ To measure VTh or Voc
 Thevenin’s equivalent circuit
 
 <img width="313" height="164" alt="image" src="https://github.com/user-attachments/assets/2de70f30-9d20-46c2-a05d-2cf793137885" />
+**THEORY:**
+**CALCULATION:**
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/44b606a5-abd0-4f6c-a1ef-5a6aff12ac3f" />
+**TABULATION:**
+<img width="1152" height="1212" alt="image" src="https://github.com/user-attachments/assets/411d7b47-5d06-48c4-8060-44b798117a63" />
 
 
 **PROCEDURE:**
@@ -78,3 +86,6 @@ Thevenin’s equivalent circuit
     Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 13.	Theoretically verify the Norton’s theorem.
+**MARKS SPLIT UP:**
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/976a686c-b21c-47a2-94f2-7d74930fe053" />
+
